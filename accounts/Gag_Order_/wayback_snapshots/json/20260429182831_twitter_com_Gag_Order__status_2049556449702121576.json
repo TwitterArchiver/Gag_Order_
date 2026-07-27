@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2049556449702121576",
+    "created_at": "2026-04-29T18:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T19:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049556449702121576"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049556449702121576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡不着一直在头脑风暴\n我觉得跨不一定要等到成年才能得到自己想要的的医学支持 但是年龄还很小的时候就在没经过医生介入的情况下自己服用\n。这不是很危险吗\n本地也确实很难找到专业支持就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2049556449702121576",
+        "created_at": "2026-04-29T18:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049556449702121576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049556449702121576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡不着一直在头脑风暴\n我觉得跨不一定要等到成年才能得到自己想要的的医学支持 但是年龄还很小的时候就在没经过医生介入的情况下自己服用\n。这不是很危险吗\n本地也确实很难找到专业支持就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨男同 金刚烷胺享受者",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

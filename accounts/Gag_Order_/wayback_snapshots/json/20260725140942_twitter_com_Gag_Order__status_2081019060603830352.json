@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2081016677794496805",
+    "created_at": "2026-07-25T14:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081019060603830352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048175960189771776",
+          "start": 0,
+          "username": "yxinmi169348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081019060603830352",
+    "in_reply_to_user_id": "2048175960189771776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081016677794496805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxinmi169348 有颓废感真的是种魅力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2081016677794496805",
+        "created_at": "2026-07-25T14:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081019060603830352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048175960189771776",
+              "start": 0,
+              "username": "yxinmi169348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081019060603830352",
+        "in_reply_to_user_id": "2048175960189771776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081016677794496805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxinmi169348 有颓废感真的是种魅力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048175960189771776",
+        "conversation_id": "2081016677794496805",
+        "created_at": "2026-07-25T14:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081016677794496805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081016677794496805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很喜欢那种颓废的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2079494310861382058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 232,
+          "like_count": 945,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 476
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T23:03:17.000Z",
+        "description": "不建政 但是粉红与社达狗不得入内\n双相‖型 bpd",
+        "id": "2048175960189771776",
+        "location": "骂我的下辈子中国人",
+        "name": "路边一条",
+        "pinned_tweet_id": "2072389430627934221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079310813240913920/1Bo3odlF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 34,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "yxinmi169348",
+        "verified": false
+      }
+    ]
+  }
+}

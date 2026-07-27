@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062994783866355712"
+      ]
+    },
+    "author_id": "1554387909587136512",
+    "conversation_id": "2062994793483882500",
+    "created_at": "2026-06-05T20:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062994793483882500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Xl7QdtZxs",
+          "end": 42,
+          "expanded_url": "https://x.com/Gag_Order_/status/2062994793483882500/photo/1",
+          "media_key": "3_2062994783866355712",
+          "start": 19,
+          "url": "https://t.co/0Xl7QdtZxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062994793483882500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我没钱花了。\n给我钱我可能会帮你算命 https://t.co/0Xl7QdtZxs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2062994783866355712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKE602HWgAAArqJ.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062994783866355712"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2062994793483882500",
+        "created_at": "2026-06-05T20:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062994793483882500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Xl7QdtZxs",
+              "end": 42,
+              "expanded_url": "https://x.com/Gag_Order_/status/2062994793483882500/photo/1",
+              "media_key": "3_2062994783866355712",
+              "start": 19,
+              "url": "https://t.co/0Xl7QdtZxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062994793483882500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没钱花了。\n给我钱我可能会帮你算命 https://t.co/0Xl7QdtZxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 156,
+          "like_count": 365,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 236
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

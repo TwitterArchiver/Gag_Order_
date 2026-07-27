@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2080970707689988137",
+    "created_at": "2026-07-25T10:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080970707689988137"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080970707689988137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我命令看到这条推的人：\n【1】“我不知道什么是tulpa”——那就帮我转转贴\n【2】“我知道tulpa也知道如何对话”——私联我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2080970707689988137",
+        "created_at": "2026-07-25T10:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080970707689988137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080970707689988137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我命令看到这条推的人：\n【1】“我不知道什么是tulpa”——那就帮我转转贴\n【2】“我知道tulpa也知道如何对话”——私联我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2079494310861382058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 228,
+          "like_count": 910,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

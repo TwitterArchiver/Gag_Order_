@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2058579834855432423",
+    "created_at": "2026-05-24T16:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058579834855432423"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058579834855432423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的大部分时间说话都会想怎么让对方更开心\n为啥我每天过的还这么惨\n老天爷你啥意思。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2058579834855432423",
+        "created_at": "2026-05-24T16:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058579834855432423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058579834855432423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的大部分时间说话都会想怎么让对方更开心\n为啥我每天过的还这么惨\n老天爷你啥意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2058099311897108576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 113,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 107
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2065077779180421551",
+    "created_at": "2026-06-11T21:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T22:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065191743503434127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620421815431753730",
+          "start": 0,
+          "username": "sfcoincode"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065191743503434127",
+    "in_reply_to_user_id": "1620421815431753730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065105224348639579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfcoincode 可以蹲了 这个隔几天就能喝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2065077779180421551",
+        "created_at": "2026-06-11T21:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065191743503434127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620421815431753730",
+              "start": 0,
+              "username": "sfcoincode"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065191743503434127",
+        "in_reply_to_user_id": "1620421815431753730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065105224348639579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfcoincode 可以蹲了 这个隔几天就能喝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620421815431753730",
+        "conversation_id": "2065077779180421551",
+        "created_at": "2026-06-11T16:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065105224348639579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065105224348639579",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065077779180421551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 想知道有没有效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2063019307517333751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 164,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 271
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T14:00:58.000Z",
+        "description": "梦想成为传奇药师……",
+        "id": "1620421815431753730",
+        "location": "某座图书馆的某本藏书",
+        "name": "卡莉斯塔Crystal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054273306090733568/qFUB7KGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 73
+        },
+        "username": "sfcoincode",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2065345488392503660",
+    "created_at": "2026-06-12T15:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065453115197796839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2055719841173278720",
+          "start": 0,
+          "username": "Theaouo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065453115197796839",
+    "in_reply_to_user_id": "2055719841173278720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065442390354407934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theaouo1 自由》金钱〉爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2065345488392503660",
+        "created_at": "2026-06-12T15:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065453115197796839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2055719841173278720",
+              "start": 0,
+              "username": "Theaouo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065453115197796839",
+        "in_reply_to_user_id": "2055719841173278720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065442390354407934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theaouo1 自由》金钱〉爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055719841173278720",
+        "conversation_id": "2065345488392503660",
+        "created_at": "2026-06-12T14:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065442390354407934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065442390354407934",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065345488392503660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2063019307517333751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 170,
+          "like_count": 491,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 286
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T18:39:59.000Z",
+        "description": "",
+        "id": "2055719841173278720",
+        "name": "李娜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064642669662658560/10KIgv85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "Theaouo1",
+        "verified": false
+      }
+    ]
+  }
+}

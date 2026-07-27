@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2060757560853237971",
+    "created_at": "2026-05-31T00:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T01:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060879955777466566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1801888513853689862",
+          "start": 0,
+          "username": "tomnn1500041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060879955777466566",
+    "in_reply_to_user_id": "1801888513853689862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060811122224308304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomnn1500041 没效果。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2060757560853237971",
+        "created_at": "2026-05-31T00:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060879955777466566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1801888513853689862",
+              "start": 0,
+              "username": "tomnn1500041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060879955777466566",
+        "in_reply_to_user_id": "1801888513853689862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060811122224308304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomnn1500041 没效果。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801888513853689862",
+        "conversation_id": "2060757560853237971",
+        "created_at": "2026-05-30T19:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060811122224308304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060811122224308304",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060757560853237971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 有效果吗？感觉pr80类太分人了，我吃1200mg只是头晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 133,
+          "like_count": 242,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 179
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T08:04:52.000Z",
+        "description": "谁对我好我就喜欢谁",
+        "id": "1801888513853689862",
+        "location": "地靈殿",
+        "name": "🌟小氦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999916065091178497/L-nCNgpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 263,
+          "like_count": 2278,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 132
+        },
+        "username": "tomnn1500041",
+        "verified": false
+      }
+    ]
+  }
+}

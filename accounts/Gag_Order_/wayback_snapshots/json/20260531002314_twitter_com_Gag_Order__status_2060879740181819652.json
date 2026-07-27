@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2060757560853237971",
+    "created_at": "2026-05-31T00:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T01:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060879740181819652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1965819361459093504",
+          "start": 0,
+          "username": "chen0303125955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060879740181819652",
+    "in_reply_to_user_id": "1965819361459093504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060799065210896580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen0303125955 醒了 没感觉到太明显的药效 就有点头晕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2060757560853237971",
+        "created_at": "2026-05-31T00:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060879740181819652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1965819361459093504",
+              "start": 0,
+              "username": "chen0303125955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060879740181819652",
+        "in_reply_to_user_id": "1965819361459093504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060799065210896580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen0303125955 醒了 没感觉到太明显的药效 就有点头晕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965819361459093504",
+        "conversation_id": "2060757560853237971",
+        "created_at": "2026-05-30T19:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060799065210896580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060799065210896580",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060757560853237971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 哥们儿怎么样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 133,
+          "like_count": 240,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 178
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T16:47:23.000Z",
+        "description": "，",
+        "id": "1965819361459093504",
+        "location": "距离你114514m",
+        "name": "飞飞飞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059727391396958208/8EmQeHMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 252,
+          "like_count": 780,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 164
+        },
+        "username": "chen0303125955",
+        "verified": false
+      }
+    ]
+  }
+}

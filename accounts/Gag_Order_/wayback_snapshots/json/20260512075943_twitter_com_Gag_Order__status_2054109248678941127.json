@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2051778626736246809",
+    "created_at": "2026-05-12T07:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T08:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054109248678941127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1678138201578385414",
+          "start": 0,
+          "username": "jiesxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054109248678941127",
+    "in_reply_to_user_id": "1678138201578385414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051778626736246809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiesxd 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2051778626736246809",
+        "created_at": "2026-05-12T07:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054109248678941127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1678138201578385414",
+              "start": 0,
+              "username": "jiesxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054109248678941127",
+        "in_reply_to_user_id": "1678138201578385414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051778626736246809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiesxd 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678138201578385414",
+        "conversation_id": "2051778626736246809",
+        "created_at": "2026-05-05T21:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051778626736246809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051778626736246809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想是买晚安还是dpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 45,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T20:25:15.000Z",
+        "description": "这里是章鱼鸽。",
+        "id": "1678138201578385414",
+        "name": "煾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048298370276732928/DAY9tDWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 125,
+          "like_count": 11135,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 235
+        },
+        "username": "jiesxd",
+        "verified": false
+      }
+    ]
+  }
+}

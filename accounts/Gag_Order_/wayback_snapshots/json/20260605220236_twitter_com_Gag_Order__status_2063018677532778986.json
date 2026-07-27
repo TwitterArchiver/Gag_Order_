@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2062994793483882500",
+    "created_at": "2026-06-05T22:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T23:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063018677532778986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1390266567544479745",
+          "start": 0,
+          "username": "R1N_TVT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063018677532778986",
+    "in_reply_to_user_id": "1390266567544479745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063013449408581644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1N_TVT 我日我才发现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2062994793483882500",
+        "created_at": "2026-06-05T22:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T23:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063018677532778986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1390266567544479745",
+              "start": 0,
+              "username": "R1N_TVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063018677532778986",
+        "in_reply_to_user_id": "1390266567544479745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063013449408581644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1N_TVT 我日我才发现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390266567544479745",
+        "conversation_id": "2062994793483882500",
+        "created_at": "2026-06-05T21:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T22:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063013449408581644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063013449408581644",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062994793483882500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 发收款码有点危险啊（）感觉还是发赞赏码好一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 156,
+          "like_count": 367,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 236
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-06T11:26:03.000Z",
+        "description": "我们的爱，再也找不回来了吗。\n前世@R1N_TWT\n寻回互fo中。\n嗯本人或许是enby？我不确定。\n曾经含糖。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "R1N_TWT"
+              }
+            ]
+          }
+        },
+        "id": "1390266567544479745",
+        "name": "疯狂小粼喵",
+        "pinned_tweet_id": "2061518099908870410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058150086824341504/KXeJ1xSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 120,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 607
+        },
+        "username": "R1N_TVT",
+        "verified": false
+      }
+    ]
+  }
+}

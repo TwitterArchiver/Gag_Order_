@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2062988865514635625",
+    "created_at": "2026-06-05T20:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062988865514635625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eschnelle25805…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/eschnelle25805/status/2062607997000622232",
+          "start": 3,
+          "url": "https://t.co/Kte49uIqTJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062988865514635625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062607997000622232",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很甜 https://t.co/Kte49uIqTJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062607990331736064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_bCf6bAAAwiRt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2062988865514635625",
+        "created_at": "2026-06-05T20:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062988865514635625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eschnelle25805…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/eschnelle25805/status/2062607997000622232",
+              "start": 3,
+              "url": "https://t.co/Kte49uIqTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062988865514635625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062607997000622232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很甜 https://t.co/Kte49uIqTJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062607990331736064"
+          ]
+        },
+        "author_id": "1837158939722665984",
+        "conversation_id": "2062607997000622232",
+        "created_at": "2026-06-04T18:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062607997000622232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEUysGA0uc",
+              "end": 50,
+              "expanded_url": "https://x.com/ESchnelle25805/status/2062607997000622232/photo/1",
+              "media_key": "3_2062607990331736064",
+              "start": 27,
+              "url": "https://t.co/uEUysGA0uc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062607997000622232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 679,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "刘少奇×邓小平\n老公，我会给你平反的，你就安心的去吧 https://t.co/uEUysGA0uc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 154,
+          "like_count": 345,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 224
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T15:56:50.000Z",
+        "description": "搞表，x仅存档和用grok生成乐子黄文。现在主要搞 刘少奇×邓小平 和 陈云×高岗 这两对狗男男。",
+        "id": "1837158939722665984",
+        "name": "KawaiiNecrophilia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062937871766761472/wQzpHaQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 41,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 26
+        },
+        "username": "ESchnelle25805",
+        "verified": false
+      }
+    ]
+  }
+}

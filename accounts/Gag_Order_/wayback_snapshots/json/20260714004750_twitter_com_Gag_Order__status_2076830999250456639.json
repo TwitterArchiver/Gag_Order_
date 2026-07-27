@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2076588705582625050",
+    "created_at": "2026-07-14T00:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076830999250456639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711437791828336641",
+          "start": 0,
+          "username": "bigLongma1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076830999250456639",
+    "in_reply_to_user_id": "1711437791828336641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076604223975018717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigLongma1 这个外幻对我来说很牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2076588705582625050",
+        "created_at": "2026-07-14T00:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076830999250456639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711437791828336641",
+              "start": 0,
+              "username": "bigLongma1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076830999250456639",
+        "in_reply_to_user_id": "1711437791828336641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076604223975018717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigLongma1 这个外幻对我来说很牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711437791828336641",
+        "conversation_id": "2076588705582625050",
+        "created_at": "2026-07-13T09:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076604223975018717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076604223975018717",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076588705582625050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 这个真的好玩吗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2076546451350368511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 202,
+          "like_count": 696,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T17:45:50.000Z",
+        "description": "",
+        "id": "1711437791828336641",
+        "location": "Vietnam",
+        "name": "Pohana",
+        "pinned_tweet_id": "1987233007313584421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982163138096074752/TaZp26FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 38,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "bigLongma1",
+        "verified": false
+      }
+    ]
+  }
+}

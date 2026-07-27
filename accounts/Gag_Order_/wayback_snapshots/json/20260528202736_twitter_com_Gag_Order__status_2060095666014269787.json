@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2059927615444500901",
+    "created_at": "2026-05-28T20:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T21:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060095666014269787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620421815431753730",
+          "start": 0,
+          "username": "sfcoincode"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060095666014269787",
+    "in_reply_to_user_id": "1620421815431753730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060083927403184385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfcoincode 已经冲厕所了 害的我现在都没睡着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2059927615444500901",
+        "created_at": "2026-05-28T20:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060095666014269787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620421815431753730",
+              "start": 0,
+              "username": "sfcoincode"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060095666014269787",
+        "in_reply_to_user_id": "1620421815431753730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060083927403184385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfcoincode 已经冲厕所了 害的我现在都没睡着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620421815431753730",
+        "conversation_id": "2059927615444500901",
+        "created_at": "2026-05-28T19:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060083927403184385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060083927403184385",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059927615444500901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 这药完全就是垃圾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 123,
+          "like_count": 175,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 169
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T14:00:58.000Z",
+        "description": "",
+        "id": "1620421815431753730",
+        "location": "LoR",
+        "name": "老大喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054273306090733568/qFUB7KGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "username": "sfcoincode",
+        "verified": false
+      }
+    ]
+  }
+}

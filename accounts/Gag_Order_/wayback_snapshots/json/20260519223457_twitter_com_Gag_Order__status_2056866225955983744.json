@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2056413393544737135",
+    "created_at": "2026-05-19T22:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T23:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056866225955983744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922574605027577856",
+          "start": 0,
+          "username": "Eliver258042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056866225955983744",
+    "in_reply_to_user_id": "1922574605027577856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056695256729735296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eliver258042 ？什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2056413393544737135",
+        "created_at": "2026-05-19T22:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T23:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056866225955983744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922574605027577856",
+              "start": 0,
+              "username": "Eliver258042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056866225955983744",
+        "in_reply_to_user_id": "1922574605027577856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056695256729735296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eliver258042 ？什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574605027577856",
+        "conversation_id": "2056413393544737135",
+        "created_at": "2026-05-19T11:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056695256729735296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056695256729735296",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056413393544737135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 找到了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 61,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 51
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:48:08.000Z",
+        "description": "天津，双，喜欢年下薄肌，爱看射，1或农。",
+        "id": "1922574605027577856",
+        "location": "Chinatown, Manhattan",
+        "name": "RON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042456696745050112/AWr0GSRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 1302,
+          "like_count": 1492,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Eliver258042",
+        "verified": false
+      }
+    ]
+  }
+}

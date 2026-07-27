@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2062930940989465044",
+    "created_at": "2026-06-06T08:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063179318147101057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2037266870274023424",
+          "start": 0,
+          "username": "lizijiangTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063179318147101057",
+    "in_reply_to_user_id": "2037266870274023424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063140092349395426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizijiangTvT 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2062930940989465044",
+        "created_at": "2026-06-06T08:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063179318147101057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2037266870274023424",
+              "start": 0,
+              "username": "lizijiangTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063179318147101057",
+        "in_reply_to_user_id": "2037266870274023424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063140092349395426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizijiangTvT 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037266870274023424",
+        "conversation_id": "2062930940989465044",
+        "created_at": "2026-06-06T06:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063140092349395426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063140092349395426",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062930940989465044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 以后少吃了，最好慢慢戒掉吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2063019307517333751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 158,
+          "like_count": 429,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 250
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T20:34:30.000Z",
+        "description": "",
+        "id": "2037266870274023424",
+        "name": "梨子酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037267529668980736/bkkWW1r2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 40,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "username": "lizijiangTvT",
+        "verified": false
+      }
+    ]
+  }
+}

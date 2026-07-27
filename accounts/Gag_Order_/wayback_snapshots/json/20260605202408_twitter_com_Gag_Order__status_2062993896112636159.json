@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2062993896112636159",
+    "created_at": "2026-06-05T20:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062993896112636159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596128240833548288",
+          "start": 3,
+          "username": "Ayuan_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062993896112636159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062728424603468013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayuan_ai: 共情能力很强的人一般情感漠视也很严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2062993896112636159",
+        "created_at": "2026-06-05T20:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062993896112636159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596128240833548288",
+              "start": 3,
+              "username": "Ayuan_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062993896112636159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062728424603468013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayuan_ai: 共情能力很强的人一般情感漠视也很严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596128240833548288",
+        "conversation_id": "2062728424603468013",
+        "created_at": "2026-06-05T02:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062728424603468013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062728424603468013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2845,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "共情能力很强的人一般情感漠视也很严重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 156,
+          "like_count": 359,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 234
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T13:06:54.000Z",
+        "description": "🌱03 \n🎓 数学&经济学在读\n📍香港｜上海｜多伦多\n💡AI产品经理学习中\n做有意义和有趣的事\n MORE：酒鬼、户外爱好者、业余摄影爱好者、各种球类运动全能玩家、音乐剧艺术展痴迷、黑暗料理创造家、纯爱战士",
+        "id": "1596128240833548288",
+        "location": "0.1 km",
+        "name": "Ayuan",
+        "pinned_tweet_id": "2058717660859269314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061292547910107138/1Vu2wd6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 263,
+          "like_count": 3850,
+          "listed_count": 7,
+          "media_count": 89,
+          "tweet_count": 1295
+        },
+        "username": "Ayuan_ai",
+        "verified": true
+      }
+    ]
+  }
+}

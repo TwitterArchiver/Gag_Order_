@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2057479587244998868",
+    "created_at": "2026-05-21T15:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057482938019901662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1678138201578385414",
+          "start": 0,
+          "username": "jiesxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057482938019901662",
+    "in_reply_to_user_id": "1678138201578385414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057481367882219828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiesxd 剧烈变形树"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2057479587244998868",
+        "created_at": "2026-05-21T15:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057482938019901662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1678138201578385414",
+              "start": 0,
+              "username": "jiesxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057482938019901662",
+        "in_reply_to_user_id": "1678138201578385414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057481367882219828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiesxd 剧烈变形树"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678138201578385414",
+        "conversation_id": "2057479587244998868",
+        "created_at": "2026-05-21T15:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057481367882219828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057481367882219828",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057479587244998868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 什么树皮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 75,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 82
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T20:25:15.000Z",
+        "description": "这里是章鱼鸽。",
+        "id": "1678138201578385414",
+        "name": "煾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048298370276732928/DAY9tDWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 129,
+          "like_count": 11287,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 240
+        },
+        "username": "jiesxd",
+        "verified": false
+      }
+    ]
+  }
+}

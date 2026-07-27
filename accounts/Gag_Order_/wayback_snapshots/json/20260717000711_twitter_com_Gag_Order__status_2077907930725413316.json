@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077907925298028544"
+      ]
+    },
+    "author_id": "1554387909587136512",
+    "conversation_id": "2077907930725413316",
+    "created_at": "2026-07-17T00:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T01:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077907930725413316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f0Y5NW8ZUl",
+          "end": 78,
+          "expanded_url": "https://x.com/Gag_Order_/status/2077907930725413316/photo/1",
+          "media_key": "3_2077907925298028544",
+          "start": 55,
+          "url": "https://t.co/f0Y5NW8ZUl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077907930725413316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "互联网太伟大了。\n把我和万千形形色色的人链接在一起\n让获取新信息的门槛降低到几乎为0\n想象不了离开互联网的我 https://t.co/f0Y5NW8ZUl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 130,
+        "media_key": "3_2077907925298028544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNY2P7NboAAVgYZ.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077907925298028544"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2077907930725413316",
+        "created_at": "2026-07-17T00:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077907930725413316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0Y5NW8ZUl",
+              "end": 78,
+              "expanded_url": "https://x.com/Gag_Order_/status/2077907930725413316/photo/1",
+              "media_key": "3_2077907925298028544",
+              "start": 55,
+              "url": "https://t.co/f0Y5NW8ZUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077907930725413316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互联网太伟大了。\n把我和万千形形色色的人链接在一起\n让获取新信息的门槛降低到几乎为0\n想象不了离开互联网的我 https://t.co/f0Y5NW8ZUl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2076546451350368511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 211,
+          "like_count": 785,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

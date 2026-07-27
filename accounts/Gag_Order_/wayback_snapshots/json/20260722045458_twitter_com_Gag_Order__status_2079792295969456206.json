@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079792282983960576"
+      ]
+    },
+    "author_id": "1554387909587136512",
+    "conversation_id": "2079792295969456206",
+    "created_at": "2026-07-22T04:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079792295969456206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0cJBV5cvHg",
+          "end": 29,
+          "expanded_url": "https://x.com/Gag_Order_/status/2079792295969456206/photo/1",
+          "media_key": "3_2079792282983960576",
+          "start": 6,
+          "url": "https://t.co/0cJBV5cvHg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079792295969456206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "o她妈的！ https://t.co/0cJBV5cvHg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2079792282983960576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzoD-nbkAAl15w.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079792282983960576"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2079792295969456206",
+        "created_at": "2026-07-22T04:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079792295969456206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0cJBV5cvHg",
+              "end": 29,
+              "expanded_url": "https://x.com/Gag_Order_/status/2079792295969456206/photo/1",
+              "media_key": "3_2079792282983960576",
+              "start": 6,
+              "url": "https://t.co/0cJBV5cvHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079792295969456206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o她妈的！ https://t.co/0cJBV5cvHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2079494310861382058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 227,
+          "like_count": 872,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2049009611936854251",
+    "created_at": "2026-04-28T12:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049098537280122994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "125276645",
+          "start": 0,
+          "username": "twikejin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049098537280122994",
+    "in_reply_to_user_id": "125276645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049009611936854251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twikejin 刷了半天了没人用的快喵吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2049009611936854251",
+        "created_at": "2026-04-28T12:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049098537280122994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "125276645",
+              "start": 0,
+              "username": "twikejin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049098537280122994",
+        "in_reply_to_user_id": "125276645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049009611936854251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twikejin 刷了半天了没人用的快喵吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "125276645",
+        "conversation_id": "2049009611936854251",
+        "created_at": "2026-04-28T06:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049009611936854251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049009611936854251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 151872,
+          "like_count": 266,
+          "quote_count": 5,
+          "reply_count": 106,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Shadowsocks 从发布到现在已经 14 年了，怎么大家还在用 传统的VPN ..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-22T08:40:29.000Z",
+        "description": "抹平信息差 | 缩小认知差 | 联系我 ➭ https://t.co/VJzlYpP0B8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "me.laofs.cn",
+                "end": 45,
+                "expanded_url": "https://me.laofs.cn/",
+                "start": 22,
+                "url": "https://t.co/VJzlYpP0B8"
+              }
+            ]
+          }
+        },
+        "id": "125276645",
+        "name": "老法师🧙‍♂️📈",
+        "pinned_tweet_id": "2044960440468525228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927348635844407296/kI7qBXQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26220,
+          "following_count": 129,
+          "like_count": 165,
+          "listed_count": 462,
+          "media_count": 963,
+          "tweet_count": 6554
+        },
+        "username": "twikejin",
+        "verified": true
+      }
+    ]
+  }
+}

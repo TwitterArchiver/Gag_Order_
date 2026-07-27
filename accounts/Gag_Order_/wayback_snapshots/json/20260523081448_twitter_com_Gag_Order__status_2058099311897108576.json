@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2058099311897108576",
+    "created_at": "2026-05-23T08:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058099311897108576"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058099311897108576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "居然已经60fo了那就来写个置顶\n树皮这个东西这么有流量吗…\n \nentp亲跨男同 很闲 非常喜欢幻觉\n希望不会死于剧烈变形"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2058099311897108576",
+        "created_at": "2026-05-23T08:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058099311897108576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058099311897108576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然已经60fo了那就来写个置顶\n树皮这个东西这么有流量吗…\n \nentp亲跨男同 很闲 非常喜欢幻觉\n希望不会死于剧烈变形"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 108,
+          "like_count": 124,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 98
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

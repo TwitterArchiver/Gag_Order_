@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2058704594893468005",
+    "created_at": "2026-05-25T09:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058848090354745554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587713006334418945",
+          "start": 0,
+          "username": "chenrui_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058848090354745554",
+    "in_reply_to_user_id": "1587713006334418945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058781113233883640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenrui_QAQ 不知道\n都可能吧"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2058781113233883640].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2058781113233883640",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2058781113233883640"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2058704594893468005",
+        "created_at": "2026-05-25T09:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058848090354745554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587713006334418945",
+              "start": 0,
+              "username": "chenrui_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058848090354745554",
+        "in_reply_to_user_id": "1587713006334418945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058781113233883640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenrui_QAQ 不知道\n都可能吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2058099311897108576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 113,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 123
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T07:47:45.000Z",
+        "description": "社恐\\欢迎互fo\\od\\偶尔键政\\蛆\\其实点进来全是碎碎念来的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cr77691",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cr77691",
+                "start": 0,
+                "url": "https://t.co/b3SXCKUMml"
+              }
+            ]
+          }
+        },
+        "id": "1587713006334418945",
+        "location": "地獄",
+        "name": "敐綏✨",
+        "pinned_tweet_id": "2056716375867961741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053143486258413575/LEhnX6GJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 103,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/b3SXCKUMml",
+        "username": "chenrui_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

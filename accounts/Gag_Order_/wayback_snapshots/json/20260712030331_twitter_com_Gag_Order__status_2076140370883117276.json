@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076140354911244289"
+      ]
+    },
+    "author_id": "1554387909587136512",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076140370883117276",
+    "created_at": "2026-07-12T03:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076140370883117276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/51dSBobldS",
+          "end": 32,
+          "expanded_url": "https://x.com/Gag_Order_/status/2076140370883117276/photo/1",
+          "media_key": "3_2076140354911244289",
+          "start": 9,
+          "url": "https://t.co/51dSBobldS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076140370883117276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁来和我加页手记 https://t.co/51dSBobldS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2076140354911244289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_upyZWkAErnsX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076140354911244289"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076140370883117276",
+        "created_at": "2026-07-12T03:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076140370883117276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51dSBobldS",
+              "end": 32,
+              "expanded_url": "https://x.com/Gag_Order_/status/2076140370883117276/photo/1",
+              "media_key": "3_2076140354911244289",
+              "start": 9,
+              "url": "https://t.co/51dSBobldS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076140370883117276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来和我加页手记 https://t.co/51dSBobldS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2065463862426522078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 200,
+          "like_count": 672,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

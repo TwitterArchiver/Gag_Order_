@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065463844143583232"
+      ]
+    },
+    "author_id": "1554387909587136512",
+    "conversation_id": "2065463862426522078",
+    "created_at": "2026-06-12T15:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T16:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065463862426522078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vmt2qQJv3a",
+          "end": 42,
+          "expanded_url": "https://x.com/Gag_Order_/status/2065463862426522078/photo/1",
+          "media_key": "3_2065463844143583232",
+          "start": 19,
+          "url": "https://t.co/Vmt2qQJv3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065463862426522078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额啊。。。再嗑不到谵妄剂我会很痛苦的 https://t.co/Vmt2qQJv3a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2065463844143583232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoAbEaXUAASQOm.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065463844143583232"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2065463862426522078",
+        "created_at": "2026-06-12T15:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065463862426522078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vmt2qQJv3a",
+              "end": 42,
+              "expanded_url": "https://x.com/Gag_Order_/status/2065463862426522078/photo/1",
+              "media_key": "3_2065463844143583232",
+              "start": 19,
+              "url": "https://t.co/Vmt2qQJv3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065463862426522078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额啊。。。再嗑不到谵妄剂我会很痛苦的 https://t.co/Vmt2qQJv3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2063019307517333751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 171,
+          "like_count": 495,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 294
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2059965557277925820",
+    "created_at": "2026-05-28T16:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060032455533363260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638873690472325123",
+          "start": 0,
+          "username": "SmithBob457037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060032455533363260",
+    "in_reply_to_user_id": "1638873690472325123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060030206728077313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SmithBob457037 不行 而且你应该已经很久没ccb了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2059965557277925820",
+        "created_at": "2026-05-28T16:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060032455533363260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638873690472325123",
+              "start": 0,
+              "username": "SmithBob457037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060032455533363260",
+        "in_reply_to_user_id": "1638873690472325123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060030206728077313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SmithBob457037 不行 而且你应该已经很久没ccb了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638873690472325123",
+        "conversation_id": "2059965557277925820",
+        "created_at": "2026-05-28T16:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060030206728077313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060030206728077313",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059965557277925820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 大师能不能帮我算算什么时候能🌿到b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 122,
+          "like_count": 166,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 166
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T12:02:12.000Z",
+        "description": "看起来就是个人类\n其实是神",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/humanoid68799",
+                "end": 23,
+                "expanded_url": "https://ngl.link/humanoid68799",
+                "start": 0,
+                "url": "https://t.co/gPRpocQv6z"
+              }
+            ]
+          }
+        },
+        "id": "1638873690472325123",
+        "location": "潍坊",
+        "name": "类人生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842288986188021760/ib1ryU4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 551,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/gPRpocQv6z",
+        "username": "SmithBob457037",
+        "verified": false
+      }
+    ]
+  }
+}

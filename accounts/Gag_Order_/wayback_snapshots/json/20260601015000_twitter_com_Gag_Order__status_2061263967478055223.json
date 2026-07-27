@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2057142313328205995",
+    "created_at": "2026-06-01T01:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061263967478055223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1742609150373396481",
+          "start": 0,
+          "username": "ssosksk333"
+        },
+        {
+          "end": 26,
+          "id": "2008210739513958401",
+          "start": 12,
+          "username": "hlinyy1962411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061263967478055223",
+    "in_reply_to_user_id": "1742609150373396481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059513410233172057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssosksk333 @hlinyy1962411 什么我吃了快30t都没什么幻。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2057142313328205995",
+        "created_at": "2026-06-01T01:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061263967478055223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1742609150373396481",
+              "start": 0,
+              "username": "ssosksk333"
+            },
+            {
+              "end": 26,
+              "id": "2008210739513958401",
+              "start": 12,
+              "username": "hlinyy1962411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061263967478055223",
+        "in_reply_to_user_id": "1742609150373396481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059513410233172057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssosksk333 @hlinyy1962411 什么我吃了快30t都没什么幻。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742609150373396481",
+        "conversation_id": "2057142313328205995",
+        "created_at": "2026-05-27T05:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059513410233172057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008210739513958401",
+              "start": 0,
+              "username": "hlinyy1962411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059513410233172057",
+        "in_reply_to_user_id": "2008210739513958401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059294120762286225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hlinyy1962411 第一次6t左右就可以了但是可能会很困直接睡过去。我现在吃多了15t往上才有感觉配上ym很好吃有很强的外幻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 137,
+          "like_count": 274,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 192
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T18:09:48.000Z",
+        "description": "黏菌与螺旋",
+        "id": "1742609150373396481",
+        "name": "(˃̣̣̥﹏˂̣̣̥)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058979995838787584/xwV3H9Kc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 38,
+          "like_count": 5062,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1242
+        },
+        "username": "ssosksk333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T16:15:37.000Z",
+        "description": "",
+        "id": "2008210739513958401",
+        "name": "清辉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008211107500990479/jSBxfnON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 12,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "hlinyy1962411",
+        "verified": false
+      }
+    ]
+  }
+}

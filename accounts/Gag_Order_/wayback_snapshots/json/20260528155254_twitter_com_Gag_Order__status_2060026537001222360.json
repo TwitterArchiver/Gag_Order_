@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2059927615444500901",
+    "created_at": "2026-05-28T15:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060026537001222360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1730928712475181056",
+          "start": 0,
+          "username": "shijieshangling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060026537001222360",
+    "in_reply_to_user_id": "1730928712475181056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060015157561233524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shijieshangling 我已经扔了 气的我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2059927615444500901",
+        "created_at": "2026-05-28T15:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060026537001222360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1730928712475181056",
+              "start": 0,
+              "username": "shijieshangling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060026537001222360",
+        "in_reply_to_user_id": "1730928712475181056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060015157561233524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shijieshangling 我已经扔了 气的我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730928712475181056",
+        "conversation_id": "2059927615444500901",
+        "created_at": "2026-05-28T15:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060015157561233524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060015157561233524",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059927615444500901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 美金刚自从吃过一次之后就压箱底了没药吃也不吃美金刚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 122,
+          "like_count": 164,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 162
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T12:35:48.000Z",
+        "description": "我叫纸 \n🚪52/88",
+        "id": "1730928712475181056",
+        "name": "我的命是纸折的",
+        "pinned_tweet_id": "2042260736387449059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054210068997197824/_bx67uhc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 435,
+          "like_count": 817,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1148
+        },
+        "username": "shijieshangling",
+        "verified": false
+      }
+    ]
+  }
+}

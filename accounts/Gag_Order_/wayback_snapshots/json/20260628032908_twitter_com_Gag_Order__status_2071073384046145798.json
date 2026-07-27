@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2066545924055175210",
+    "created_at": "2026-06-28T03:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T04:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071073384046145798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1283818798177370113",
+          "start": 0,
+          "username": "GuangXi06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071073384046145798",
+    "in_reply_to_user_id": "1283818798177370113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066840219308171753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuangXi06 吃进安定了再也不吃谵妄剂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2066545924055175210",
+        "created_at": "2026-06-28T03:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071073384046145798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1283818798177370113",
+              "start": 0,
+              "username": "GuangXi06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071073384046145798",
+        "in_reply_to_user_id": "1283818798177370113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066840219308171753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuangXi06 吃进安定了再也不吃谵妄剂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283818798177370113",
+        "conversation_id": "2066545924055175210",
+        "created_at": "2026-06-16T11:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066840219308171753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066840219308171753",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066545924055175210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 吃得越来越猎奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2065463862426522078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 185,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T17:40:39.000Z",
+        "description": "19 | he/him｜ 负能量 | 想交朋友｜OD💊｜穿孔｜互fo｜不键政｜不卖东西｜大家快来找这个清平聊天呀｜",
+        "id": "1283818798177370113",
+        "location": "第四高原",
+        "name": "痛苦心事难言",
+        "pinned_tweet_id": "2056042624641798443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056582911160352768/GW69TNAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 252,
+          "like_count": 2445,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "GuangXi06",
+        "verified": false
+      }
+    ]
+  }
+}

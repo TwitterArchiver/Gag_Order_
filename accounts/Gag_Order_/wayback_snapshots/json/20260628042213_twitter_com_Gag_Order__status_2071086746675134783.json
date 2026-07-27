@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071086733450428416",
+        "3_2071086733463015424",
+        "3_2071086733458866176"
+      ]
+    },
+    "author_id": "1554387909587136512",
+    "conversation_id": "2071086746675134783",
+    "created_at": "2026-06-28T04:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071086746675134783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mvIBPMK14e",
+          "end": 29,
+          "expanded_url": "https://x.com/Gag_Order_/status/2071086746675134783/photo/1",
+          "media_key": "3_2071086733450428416",
+          "start": 6,
+          "url": "https://t.co/mvIBPMK14e"
+        },
+        {
+          "display_url": "pic.x.com/mvIBPMK14e",
+          "end": 29,
+          "expanded_url": "https://x.com/Gag_Order_/status/2071086746675134783/photo/1",
+          "media_key": "3_2071086733463015424",
+          "start": 6,
+          "url": "https://t.co/mvIBPMK14e"
+        },
+        {
+          "display_url": "pic.x.com/mvIBPMK14e",
+          "end": 29,
+          "expanded_url": "https://x.com/Gag_Order_/status/2071086746675134783/photo/1",
+          "media_key": "3_2071086733458866176",
+          "start": 6,
+          "url": "https://t.co/mvIBPMK14e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071086746675134783",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谵妄剂美学 https://t.co/mvIBPMK14e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 949,
+        "media_key": "3_2071086733450428416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL36aTZWQAAa-OA.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1754,
+        "media_key": "3_2071086733463015424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL36aTcWUAA62bi.jpg",
+        "width": 1004
+      },
+      {
+        "height": 1862,
+        "media_key": "3_2071086733458866176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL36aTbXAAAOzfl.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071086733450428416",
+            "3_2071086733463015424",
+            "3_2071086733458866176"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2071086746675134783",
+        "created_at": "2026-06-28T04:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071086746675134783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvIBPMK14e",
+              "end": 29,
+              "expanded_url": "https://x.com/Gag_Order_/status/2071086746675134783/photo/1",
+              "media_key": "3_2071086733450428416",
+              "start": 6,
+              "url": "https://t.co/mvIBPMK14e"
+            },
+            {
+              "display_url": "pic.x.com/mvIBPMK14e",
+              "end": 29,
+              "expanded_url": "https://x.com/Gag_Order_/status/2071086746675134783/photo/1",
+              "media_key": "3_2071086733463015424",
+              "start": 6,
+              "url": "https://t.co/mvIBPMK14e"
+            },
+            {
+              "display_url": "pic.x.com/mvIBPMK14e",
+              "end": 29,
+              "expanded_url": "https://x.com/Gag_Order_/status/2071086746675134783/photo/1",
+              "media_key": "3_2071086733458866176",
+              "start": 6,
+              "url": "https://t.co/mvIBPMK14e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071086746675134783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谵妄剂美学 https://t.co/mvIBPMK14e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2065463862426522078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 185,
+          "like_count": 544,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

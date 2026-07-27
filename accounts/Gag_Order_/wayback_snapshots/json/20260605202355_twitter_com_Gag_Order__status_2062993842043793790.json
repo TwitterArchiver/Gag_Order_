@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2062158044998639732",
+    "created_at": "2026-06-05T20:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062993842043793790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051536884799803392",
+          "start": 0,
+          "username": "Dyzilidz"
+        },
+        {
+          "end": 21,
+          "id": "1823160336691982336",
+          "start": 10,
+          "username": "Hozheganma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062993842043793790",
+    "in_reply_to_user_id": "2051536884799803392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062158044998639732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dyzilidz @Hozheganma 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2062158038010925057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5Bz05bkAEb69u.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2062158044998639732",
+        "created_at": "2026-06-05T20:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062993842043793790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051536884799803392",
+              "start": 0,
+              "username": "Dyzilidz"
+            },
+            {
+              "end": 21,
+              "id": "1823160336691982336",
+              "start": 10,
+              "username": "Hozheganma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062993842043793790",
+        "in_reply_to_user_id": "2051536884799803392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062158044998639732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dyzilidz @Hozheganma 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062158038010925057"
+          ]
+        },
+        "author_id": "2051536884799803392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062158044998639732",
+        "created_at": "2026-06-03T13:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062158044998639732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dse4AKRJfS",
+              "end": 85,
+              "expanded_url": "https://x.com/Dyzilidz/status/2062158044998639732/photo/1",
+              "media_key": "3_2062158038010925057",
+              "start": 62,
+              "url": "https://t.co/Dse4AKRJfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062158044998639732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2197,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "150🌹fo抽奖福利\n参与方式：转帖关注评论\npr/bzd购买联系此号\n一等奖：280🧧\n二等奖：188🧧\n三等奖：99🧧 https://t.co/Dse4AKRJfS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2059965557277925820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 156,
+          "like_count": 358,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 232
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T05:38:59.000Z",
+        "description": "购买私信哦宝宝们我很温柔的 08/男/od/割手\n没有TG的也不要着急呀宝宝们 私信我就可以啦\n⬇️是tg频道哦\nhttps://t.co/Nj8cLiVYKK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/az000912",
+                "end": 80,
+                "expanded_url": "https://t.me/az000912",
+                "start": 57,
+                "url": "https://t.co/Nj8cLiVYKK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/az000912",
+                "end": 23,
+                "expanded_url": "https://t.me/az000912",
+                "start": 0,
+                "url": "https://t.co/Nj8cLiVYKK"
+              }
+            ]
+          }
+        },
+        "id": "2051536884799803392",
+        "location": "温柔の日",
+        "name": "Misaaa",
+        "pinned_tweet_id": "2062552907409653976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062155251554369536/8J-cbAgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 63,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/Nj8cLiVYKK",
+        "username": "Dyzilidz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "高中在读/昏迷于白天，活跃于夜间/重度游戏🎮中../oder🚬/无戒断之人😇/自伤/友跨/有精神问题爱发癫！🤓/同类互fo（若没及时回sorry😿）/无政府/q我：https://t.co/cNzWslTT8R\n银叶红丝，压片与胶囊散落",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingganmogu",
+                "end": 105,
+                "expanded_url": "https://ngl.link/lingganmogu",
+                "start": 82,
+                "url": "https://t.co/cNzWslTT8R"
+              }
+            ]
+          }
+        },
+        "id": "1823160336691982336",
+        "location": "Plateau F-1",
+        "name": "沫依#Ng♓️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 391,
+          "like_count": 1699,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 576
+        },
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

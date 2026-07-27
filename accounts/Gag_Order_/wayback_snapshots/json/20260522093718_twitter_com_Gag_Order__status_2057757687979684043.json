@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2057389430273654933",
+    "created_at": "2026-05-22T09:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057757687979684043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911973715908411392",
+          "start": 0,
+          "username": "yinguo___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057757687979684043",
+    "in_reply_to_user_id": "1911973715908411392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057586255186059695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinguo___ 有人在这家店买过试过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2057389430273654933",
+        "created_at": "2026-05-22T09:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057757687979684043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911973715908411392",
+              "start": 0,
+              "username": "yinguo___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057757687979684043",
+        "in_reply_to_user_id": "1911973715908411392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057586255186059695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinguo___ 有人在这家店买过试过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911973715908411392",
+        "conversation_id": "2057389430273654933",
+        "created_at": "2026-05-21T22:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057586255186059695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057586255186059695",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057389430273654933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 为啥是假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 81,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 85
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T02:44:03.000Z",
+        "description": "我也想殺死傷痛讓那恩怨有始有終",
+        "id": "1911973715908411392",
+        "name": "因果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911973922016202752/Gt2YZNCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 129,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 137
+        },
+        "username": "yinguo___",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062567709947109378"
+      ],
+      "media_source_tweet_id": [
+        "2062567715512951172"
+      ]
+    },
+    "author_id": "1554387909587136512",
+    "conversation_id": "2062994526902313033",
+    "created_at": "2026-06-05T20:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062994526902313033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060346893557760006",
+          "start": 3,
+          "username": "bonersage"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LYBUDSogKk",
+          "end": 120,
+          "expanded_url": "https://x.com/bonersage/status/2062567715512951172/photo/1",
+          "media_key": "3_2062567709947109378",
+          "start": 97,
+          "url": "https://t.co/LYBUDSogKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062994526902313033",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062567715512951172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bonersage: “Train until you can make yourself cum with a single stroke.”\n- St. Yukio Mishima https://t.co/LYBUDSogKk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2062567709947109378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-2Z3yWoAIOPfq.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062567709947109378"
+          ],
+          "media_source_tweet_id": [
+            "2062567715512951172"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2062994526902313033",
+        "created_at": "2026-06-05T20:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T21:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062994526902313033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060346893557760006",
+              "start": 3,
+              "username": "bonersage"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYBUDSogKk",
+              "end": 120,
+              "expanded_url": "https://x.com/bonersage/status/2062567715512951172/photo/1",
+              "media_key": "3_2062567709947109378",
+              "start": 97,
+              "url": "https://t.co/LYBUDSogKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062994526902313033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062567715512951172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bonersage: “Train until you can make yourself cum with a single stroke.”\n- St. Yukio Mishima https://t.co/LYBUDSogKk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062567709947109378"
+          ]
+        },
+        "author_id": "2060346893557760006",
+        "conversation_id": "2062567715512951172",
+        "created_at": "2026-06-04T16:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062567715512951172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LYBUDSogKk",
+              "end": 105,
+              "expanded_url": "https://x.com/bonersage/status/2062567715512951172/photo/1",
+              "media_key": "3_2062567709947109378",
+              "start": 82,
+              "url": "https://t.co/LYBUDSogKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062567715512951172",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 361,
+          "impression_count": 63135,
+          "like_count": 3410,
+          "quote_count": 15,
+          "reply_count": 17,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "“Train until you can make yourself cum with a single stroke.”\n- St. Yukio Mishima https://t.co/LYBUDSogKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 156,
+          "like_count": 364,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 235
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T13:06:52.000Z",
+        "description": "E-monk of Mt. Athostwt",
+        "id": "2060346893557760006",
+        "name": "Fr. Pederastos the Erect",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060347795614158852/sC5qxOlG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 95,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 93
+        },
+        "username": "bonersage",
+        "verified": false
+      }
+    ]
+  }
+}

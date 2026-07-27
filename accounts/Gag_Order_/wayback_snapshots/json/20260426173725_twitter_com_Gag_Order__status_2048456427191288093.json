@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2048456427191288093",
+    "created_at": "2026-04-26T17:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048456427191288093"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048456427191288093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "-相同的段子能刷到130次\n-不知道为神马帖子plq总会出现无关的机器人团建\n-功能若隐若现的搜索引擎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2048456427191288093",
+        "created_at": "2026-04-26T17:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048456427191288093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048456427191288093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "-相同的段子能刷到130次\n-不知道为神马帖子plq总会出现无关的机器人团建\n-功能若隐若现的搜索引擎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

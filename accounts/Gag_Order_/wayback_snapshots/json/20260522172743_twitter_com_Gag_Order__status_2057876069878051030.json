@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2057875834892124214",
+    "created_at": "2026-05-22T17:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057876069878051030"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057876069878051030",
+    "in_reply_to_user_id": "1554387909587136512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057875834892124214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或者帮我转转也可以.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 913,
+        "media_key": "3_2057875825664655360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI8LKQybAAAdZHE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2057875834892124214",
+        "created_at": "2026-05-22T17:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057876069878051030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057876069878051030",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057875834892124214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或者帮我转转也可以.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057875825664655360"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2057875834892124214",
+        "created_at": "2026-05-22T17:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057875834892124214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkIvKXuqnT",
+              "end": 86,
+              "expanded_url": "https://x.com/Gag_Order_/status/2057875834892124214/photo/1",
+              "media_key": "3_2057875825664655360",
+              "start": 63,
+              "url": "https://t.co/fkIvKXuqnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057875834892124214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相思汤到底要怎么煮？？\n为什会有这么多种不同的煮法…\n看到这条的可以评论告诉我吗？\n不然我只能用在reddit上看到的这个了 https://t.co/fkIvKXuqnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 97,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 94
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

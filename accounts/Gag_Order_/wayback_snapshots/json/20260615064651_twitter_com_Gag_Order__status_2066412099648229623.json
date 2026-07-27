@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2066405046137532834",
+    "created_at": "2026-06-15T06:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066412099648229623"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066412099648229623",
+    "in_reply_to_user_id": "1554387909587136512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066405046137532834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有种“不舒服”的感觉但是不知具体是哪里不舒服\n也可能是心理作用？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066405036708724736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1Ybr8aAAAfXhL.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2066405046137532834",
+        "created_at": "2026-06-15T06:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066412099648229623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066412099648229623",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066405046137532834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有种“不舒服”的感觉但是不知具体是哪里不舒服\n也可能是心理作用？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066405036708724736"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2066405046137532834",
+        "created_at": "2026-06-15T06:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066405046137532834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MadtKYYZgn",
+              "end": 29,
+              "expanded_url": "https://x.com/Gag_Order_/status/2066405046137532834/photo/1",
+              "media_key": "3_2066405036708724736",
+              "start": 6,
+              "url": "https://t.co/MadtKYYZgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066405046137532834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "8t苯海索 https://t.co/MadtKYYZgn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2065463862426522078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 178,
+          "like_count": 524,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 310
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

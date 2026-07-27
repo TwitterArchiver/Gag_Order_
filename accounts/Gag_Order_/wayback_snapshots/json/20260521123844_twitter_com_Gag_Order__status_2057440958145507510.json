@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2057248846137508065",
+    "created_at": "2026-05-21T12:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057440958145507510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2043756970151211008",
+          "start": 0,
+          "username": "else69761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057440958145507510",
+    "in_reply_to_user_id": "2043756970151211008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057428633640399030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@else69761 已畏惧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2057248846137508065",
+        "created_at": "2026-05-21T12:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057440958145507510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2043756970151211008",
+              "start": 0,
+              "username": "else69761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057440958145507510",
+        "in_reply_to_user_id": "2043756970151211008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057428633640399030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@else69761 已畏惧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043756970151211008",
+        "conversation_id": "2057248846137508065",
+        "created_at": "2026-05-21T11:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057428633640399030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057428633640399030",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057248846137508065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 可能有农药，也可能会被晶，最关键的是，相思汤的剂量好你无法保证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 72,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 69
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T18:23:54.000Z",
+        "description": "嗯，想要抽抽大麻，想要吃策划药什么的，我站在od圈这一边",
+        "id": "2043756970151211008",
+        "location": "安徽省",
+        "name": "else",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062701526261760/NSLbXR-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 26,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 159
+        },
+        "username": "else69761",
+        "verified": false
+      }
+    ]
+  }
+}

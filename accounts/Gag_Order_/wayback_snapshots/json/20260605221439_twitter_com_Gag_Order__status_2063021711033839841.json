@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2063021711033839841",
+    "created_at": "2026-06-05T22:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T23:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063021711033839841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wsl8297/status…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/wsl8297/status/2062450790791598080",
+          "start": 25,
+          "url": "https://t.co/BCf57ZmkcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063021711033839841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062450790791598080",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起我之前给那种小程序游戏充钱了\n不亚于把钱撕了 https://t.co/BCf57ZmkcB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1503,
+        "media_key": "3_2062450788241485824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9MEIfbsAAdAdA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2063021711033839841",
+        "created_at": "2026-06-05T22:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T23:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063021711033839841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wsl8297/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/wsl8297/status/2062450790791598080",
+              "start": 25,
+              "url": "https://t.co/BCf57ZmkcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063021711033839841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062450790791598080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起我之前给那种小程序游戏充钱了\n不亚于把钱撕了 https://t.co/BCf57ZmkcB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062450788241485824"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2062450790791598080",
+        "created_at": "2026-06-04T08:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062450790791598080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDx5JQQBTf",
+              "end": 39,
+              "expanded_url": "https://x.com/wsl8297/status/2062450790791598080/photo/1",
+              "media_key": "3_2062450788241485824",
+              "start": 16,
+              "url": "https://t.co/dDx5JQQBTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062450790791598080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 776154,
+          "like_count": 2645,
+          "quote_count": 14,
+          "reply_count": 645,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "觉得自己败家的可以看看这个图片 https://t.co/dDx5JQQBTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n毒虫",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 156,
+          "like_count": 378,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 238
+        },
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2054798253955375388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16062,
+          "following_count": 581,
+          "like_count": 15636,
+          "listed_count": 98,
+          "media_count": 1102,
+          "tweet_count": 14850
+        },
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}
