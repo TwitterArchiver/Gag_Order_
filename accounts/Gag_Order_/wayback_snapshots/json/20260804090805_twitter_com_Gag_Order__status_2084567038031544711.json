@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084567022130905088"
+      ]
+    },
+    "author_id": "1554387909587136512",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084567038031544711",
+    "created_at": "2026-08-04T09:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084567038031544711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oetUqmIyhV",
+          "end": 68,
+          "expanded_url": "https://x.com/Gag_Order_/status/2084567038031544711/photo/1",
+          "media_key": "3_2084567022130905088",
+          "start": 45,
+          "url": "https://t.co/oetUqmIyhV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084567038031544711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小时候玩拓麻歌子总是疏于照顾ta\n每次都养成最坏情况的物种\n现在开机看到ta 居然还活着 https://t.co/oetUqmIyhV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084567022130905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3eqYCbQAAd9d2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084567022130905088"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084567038031544711",
+        "created_at": "2026-08-04T09:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084567038031544711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oetUqmIyhV",
+              "end": 68,
+              "expanded_url": "https://x.com/Gag_Order_/status/2084567038031544711/photo/1",
+              "media_key": "3_2084567022130905088",
+              "start": 45,
+              "url": "https://t.co/oetUqmIyhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084567038031544711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候玩拓麻歌子总是疏于照顾ta\n每次都养成最坏情况的物种\n现在开机看到ta 居然还活着 https://t.co/oetUqmIyhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2083531683488248135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 265,
+          "like_count": 1111,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

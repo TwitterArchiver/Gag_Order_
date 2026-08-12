@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076546442814967808"
+      ],
+      "media_source_tweet_id": [
+        "2076546451350368511"
+      ]
+    },
+    "author_id": "1554387909587136512",
+    "conversation_id": "2083406694554451990",
+    "created_at": "2026-08-01T04:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083406694554451990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1554387909587136512",
+          "start": 3,
+          "username": "Gag_Order_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pG6zaWDPON",
+          "end": 41,
+          "expanded_url": "https://x.com/Gag_Order_/status/2076546451350368511/photo/1",
+          "media_key": "3_2076546442814967808",
+          "start": 18,
+          "url": "https://t.co/pG6zaWDPON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083406694554451990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076546451350368511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gag_Order_: 法 https://t.co/pG6zaWDPON"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2076546442814967808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFf_NuWUAAmSAF.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076546442814967808"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2076546451350368511",
+        "created_at": "2026-07-13T05:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076546451350368511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pG6zaWDPON",
+              "end": 25,
+              "expanded_url": "https://x.com/Gag_Order_/status/2076546451350368511/photo/1",
+              "media_key": "3_2076546442814967808",
+              "start": 2,
+              "url": "https://t.co/pG6zaWDPON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076546451350368511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1976,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "法 https://t.co/pG6zaWDPON"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076546442814967808"
+          ],
+          "media_source_tweet_id": [
+            "2076546451350368511"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2083406694554451990",
+        "created_at": "2026-08-01T04:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083406694554451990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1554387909587136512",
+              "start": 3,
+              "username": "Gag_Order_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pG6zaWDPON",
+              "end": 41,
+              "expanded_url": "https://x.com/Gag_Order_/status/2076546451350368511/photo/1",
+              "media_key": "3_2076546442814967808",
+              "start": 18,
+              "url": "https://t.co/pG6zaWDPON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083406694554451990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076546451350368511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gag_Order_: 法 https://t.co/pG6zaWDPON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2079494310861382058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 253,
+          "like_count": 1033,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

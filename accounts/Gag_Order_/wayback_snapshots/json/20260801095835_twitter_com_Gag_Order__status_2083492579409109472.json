@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2083492579409109472",
+    "created_at": "2026-08-01T09:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083492579409109472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gag_order_/sta…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/gag_order_/status/2076546451350368511",
+          "start": 64,
+          "url": "https://t.co/aMofVfmWbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083492579409109472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076546451350368511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "父母又断供了\n收入全部用来给本人购买iso\n路过的给点 就能让我吃点好的\n不想再一边骂一边往下咽金刚烷胺了\n晚安副作用罄竹难书 https://t.co/aMofVfmWbu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2076546442814967808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFf_NuWUAAmSAF.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2083492579409109472",
+        "created_at": "2026-08-01T09:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083492579409109472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gag_order_/sta…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/gag_order_/status/2076546451350368511",
+              "start": 64,
+              "url": "https://t.co/aMofVfmWbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083492579409109472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076546451350368511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父母又断供了\n收入全部用来给本人购买iso\n路过的给点 就能让我吃点好的\n不想再一边骂一边往下咽金刚烷胺了\n晚安副作用罄竹难书 https://t.co/aMofVfmWbu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076546442814967808"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2076546451350368511",
+        "created_at": "2026-07-13T05:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076546451350368511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pG6zaWDPON",
+              "end": 25,
+              "expanded_url": "https://x.com/Gag_Order_/status/2076546451350368511/photo/1",
+              "media_key": "3_2076546442814967808",
+              "start": 2,
+              "url": "https://t.co/pG6zaWDPON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076546451350368511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2036,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "法 https://t.co/pG6zaWDPON"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2079494310861382058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 254,
+          "like_count": 1039,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

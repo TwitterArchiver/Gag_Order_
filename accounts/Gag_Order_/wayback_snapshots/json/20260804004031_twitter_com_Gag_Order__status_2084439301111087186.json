@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2084439301111087186",
+    "created_at": "2026-08-04T00:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T01:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084439301111087186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "4888777ovo02756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084439301111087186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084303973918683525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4888777ovo02756: 我希望有人能看懂我的脆弱并给我转200块钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2084439301111087186",
+        "created_at": "2026-08-04T00:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084439301111087186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "4888777ovo02756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084439301111087186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084303973918683525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4888777ovo02756: 我希望有人能看懂我的脆弱并给我转200块钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2084303973918683525",
+        "created_at": "2026-08-03T15:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084303973918683525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084303973918683525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3034,
+          "like_count": 45,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我希望有人能看懂我的脆弱并给我转200块钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2083531683488248135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 264,
+          "like_count": 1093,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 546
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "小众活法不喜勿喷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068721135324385280/FkNg_ewA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 66,
+          "like_count": 2666,
+          "listed_count": 3,
+          "media_count": 210,
+          "tweet_count": 5656
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "4888777ovo02756",
+        "verified": false
+      }
+    ]
+  }
+}
