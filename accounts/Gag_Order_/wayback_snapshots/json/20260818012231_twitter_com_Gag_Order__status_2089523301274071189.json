@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2089251750838681810",
+    "created_at": "2026-08-18T01:22:31.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T02:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089523301274071189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089523301274071189",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089251750838681810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1816,
+        "media_key": "3_2089251735714004992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6DYmGaAAAo5oU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2089251750838681810",
+        "created_at": "2026-08-18T01:22:31.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089523301274071189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089523301274071189",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089251750838681810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089251735714004992"
+          ]
+        },
+        "author_id": "1904731881817735168",
+        "conversation_id": "2089251750838681810",
+        "created_at": "2026-08-17T07:23:28.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T08:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089251750838681810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6TCodjPzQH",
+              "end": 163,
+              "expanded_url": "https://x.com/3e1diei0_oi7y/status/2089251750838681810/photo/1",
+              "media_key": "3_2089251735714004992",
+              "start": 140,
+              "url": "https://t.co/6TCodjPzQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089251750838681810",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089251735714004992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我的互关们，我真的好喜欢好喜欢喔...\n对你们怀有强烈的好感。很轻浮。但是，很高兴？\n是怎样的好感呢？唔...我觉得我的互关们都是小精灵...我可能会擅作主张对大家怀有一些母性的感情。\n这样有点难以描述，所以我像图里这样画出来了哦\n我喜欢大家...来做好朋友吧(๑• . •๑)\n我最近的语言能力越来越差劲了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 912,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的互关们，我真的好喜欢好喜欢喔...\n对你们怀有强烈的好感。很轻浮。但是，很高兴？\n是怎样的好感呢？唔...我觉得我的互关们都是小精灵...我可能会擅作主张对大家怀有一些母性的感情。\n这样有点难以描述，所以我像图里这样画出来了哦\n我喜欢大家...来做好朋友吧(๑• . •๑) https://t.co/6TCodjPzQH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089523301274071189",
+        "name": "缄",
+        "pinned_tweet_id": "2088887131963892136",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554387909587136512/1777205712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 284,
+          "like_count": 1231,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 631
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089517807948198015",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904731881817735168/1784026484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 724,
+          "like_count": 35274,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

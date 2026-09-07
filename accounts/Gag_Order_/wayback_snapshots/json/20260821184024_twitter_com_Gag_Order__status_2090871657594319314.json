@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2090820220810080323",
+    "created_at": "2026-08-21T18:40:24.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090871657594319314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1163837242747641856",
+          "start": 0,
+          "username": "CarrieL72263301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090871657594319314",
+    "in_reply_to_user_id": "1163837242747641856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090842675129749687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarrieL72263301 🙄💅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2090820220810080323",
+        "created_at": "2026-08-21T18:40:24.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090871657594319314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1163837242747641856",
+              "start": 0,
+              "username": "CarrieL72263301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090871657594319314",
+        "in_reply_to_user_id": "1163837242747641856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090842675129749687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarrieL72263301 🙄💅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1163837242747641856",
+        "conversation_id": "2090820220810080323",
+        "created_at": "2026-08-21T16:45:14.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090842675129749687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090842675129749687",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090820220810080323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 我也想质检一下诡秘"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090871657594319314",
+        "name": "缄",
+        "pinned_tweet_id": "2088887131963892136",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554387909587136512/1777205712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 281,
+          "like_count": 1282,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-20T15:36:45.000Z",
+        "description": "蒸煮mimi/demisexual/any pronouns",
+        "id": "1163837242747641856",
+        "is_identity_verified": false,
+        "location": "贝儿在南欧",
+        "most_recent_tweet_id": "2090843123190505697",
+        "name": "bb不bb",
+        "pinned_tweet_id": "1642541224371564545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163837242747641856/1702002543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085375589871931392/Ux0RFSnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 139,
+          "like_count": 2940,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "CarrieL72263301",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

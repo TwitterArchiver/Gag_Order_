@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2088524696472187111",
+    "created_at": "2026-08-15T07:14:25.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088524696472187111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1455052587145723904",
+          "start": 3,
+          "username": "MizukiWorkshop"
+        },
+        {
+          "end": 31,
+          "id": "1554387909587136512",
+          "start": 20,
+          "username": "Gag_Order_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088524696472187111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088515680458911953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MizukiWorkshop: @Gag_Order_ 在公共场所拍摄的权利在美国甚至是一种宪法权利，它是第一修正案所保护的新闻自由的一部分。最高法认为，如果没有使用来自公共区域的材料来创作的自由，那么新闻自由就会沦为无稽之谈，因此这种创作自由是新闻自由的一部分。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2088524696472187111",
+        "created_at": "2026-08-15T07:14:25.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088524696472187111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1455052587145723904",
+              "start": 3,
+              "username": "MizukiWorkshop"
+            },
+            {
+              "end": 31,
+              "id": "1554387909587136512",
+              "start": 20,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088524696472187111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088515680458911953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MizukiWorkshop: @Gag_Order_ 在公共场所拍摄的权利在美国甚至是一种宪法权利，它是第一修正案所保护的新闻自由的一部分。最高法认为，如果没有使用来自公共区域的材料来创作的自由，那么新闻自由就会沦为无稽之谈，因此这种创作自由是新闻自由的一部分。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "2088405936230879367",
+        "created_at": "2026-08-15T06:38:35.000Z",
+        "display_text_range": [
+          12,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088515680458911953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088515680458911953",
+        "in_reply_to_user_id": "1455052587145723904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088514190512177538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 在公共场所拍摄的权利在美国甚至是一种宪法权利，它是第一修正案所保护的新闻自由的一部分。最高法认为，如果没有使用来自公共区域的材料来创作的自由，那么新闻自由就会沦为无稽之谈，因此这种创作自由是新闻自由的一部分。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088524696472187111",
+        "name": "缄",
+        "pinned_tweet_id": "2083531683488248135",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554387909587136512/1777205712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 264,
+          "like_count": 1125,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "is_identity_verified": false,
+        "location": "L'Internationale",
+        "most_recent_tweet_id": "2088515680458911953",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455052587145723904/1728610161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 1230,
+          "like_count": 122094,
+          "listed_count": 7,
+          "media_count": 1893,
+          "tweet_count": 25341
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

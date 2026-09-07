@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2092627250550308952",
+    "created_at": "2026-08-26T16:17:14.000Z",
+    "display_text_range": [
+      24,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092647568933106156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067561767740624896",
+          "start": 0,
+          "username": "lwmjjctrp"
+        },
+        {
+          "end": 23,
+          "id": "1947765957658873860",
+          "start": 11,
+          "username": "AGZlove8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092647568933106156",
+    "in_reply_to_user_id": "2067561767740624896",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092646888520798224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lwmjjctrp @AGZlove8964 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2092627250550308952",
+        "created_at": "2026-08-26T16:17:14.000Z",
+        "display_text_range": [
+          24,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092647568933106156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067561767740624896",
+              "start": 0,
+              "username": "lwmjjctrp"
+            },
+            {
+              "end": 23,
+              "id": "1947765957658873860",
+              "start": 11,
+              "username": "AGZlove8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092647568933106156",
+        "in_reply_to_user_id": "2067561767740624896",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092646888520798224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lwmjjctrp @AGZlove8964 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067561767740624896",
+        "conversation_id": "2092627250550308952",
+        "created_at": "2026-08-26T16:14:32.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092646888520798224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "AGZlove8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092646888520798224",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092627250550308952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGZlove8964 我声音难听我不讲了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092647568933106156",
+        "name": "缄",
+        "pinned_tweet_id": "2088887131963892136",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554387909587136512/1777205712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 283,
+          "like_count": 1323,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-18T10:55:35.000Z",
+        "description": "有想说的话可以直接在私聊里说保证回(虽然可能不是很及时）😘",
+        "id": "2067561767740624896",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2092646888520798224",
+        "name": "lwmjj",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067561767740624896/1786989919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086861985812258816/_KOq-de9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 50,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "lwmjjctrp",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "🚪89.64 用于国家有难时刻捐款\n下辈子@dkcy1109\n匿名箱：",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "dkcy1109"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agzlove8964/clo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/agzlove8964/clo",
+                "start": 0,
+                "url": "https://t.co/4wZOTqRuIc"
+              }
+            ]
+          }
+        },
+        "id": "1947765957658873860",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092645910606168113",
+        "name": "爱国者8964",
+        "pinned_tweet_id": "2091295220843552916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947765957658873860/1786731135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088197181895536640/pyp-2zYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 155,
+          "like_count": 2810,
+          "listed_count": 5,
+          "media_count": 56,
+          "tweet_count": 1798
+        },
+        "url": "https://t.co/4wZOTqRuIc",
+        "username": "AGZlove8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

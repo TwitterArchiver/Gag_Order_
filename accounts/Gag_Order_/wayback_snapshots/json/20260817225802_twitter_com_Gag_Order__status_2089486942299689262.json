@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2089400792587587597",
+    "created_at": "2026-08-17T22:58:02.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T23:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089486942299689262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965572243335053312",
+          "start": 0,
+          "username": "ashasw1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089486942299689262",
+    "in_reply_to_user_id": "1965572243335053312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089400792587587597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw1919810 恭喜您获得了女性视角"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2089400785528557568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8K8b7aEAAxhLg.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2089400792587587597",
+        "created_at": "2026-08-17T22:58:02.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089486942299689262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965572243335053312",
+              "start": 0,
+              "username": "ashasw1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089486942299689262",
+        "in_reply_to_user_id": "1965572243335053312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089400792587587597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw1919810 恭喜您获得了女性视角"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089400785528557568"
+          ]
+        },
+        "author_id": "1965572243335053312",
+        "conversation_id": "2089400792587587597",
+        "created_at": "2026-08-17T17:15:42.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089400792587587597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gao6c6Yhzn",
+              "end": 63,
+              "expanded_url": "https://x.com/ashasw1919810/status/2089400792587587597/photo/1",
+              "media_key": "3_2089400785528557568",
+              "start": 40,
+              "url": "https://t.co/gao6c6Yhzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089400792587587597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089400785528557568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国transcel夜里一个人出门买饮料幻想被广州大街上的homeless强奸 https://t.co/gao6c6Yhzn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089486942299689262",
+        "name": "缄",
+        "pinned_tweet_id": "2088887131963892136",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554387909587136512/1777205712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 284,
+          "like_count": 1226,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 630
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-10T00:25:35.000Z",
+        "description": "人生自古谁无死，遗憾地，此人无法再与您进行互动，，，    似掉的大号@ashasw114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "ashasw114514"
+              }
+            ]
+          }
+        },
+        "id": "1965572243335053312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089468279576494566",
+        "name": "搞耍潮爹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965572243335053312/1786371212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086817939937017856/bxU2mrBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 885,
+          "like_count": 793,
+          "listed_count": 4,
+          "media_count": 64,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "ashasw1919810",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

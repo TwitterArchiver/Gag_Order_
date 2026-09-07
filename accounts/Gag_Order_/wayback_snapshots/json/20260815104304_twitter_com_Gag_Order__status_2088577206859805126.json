@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1554387909587136512",
+    "conversation_id": "2088261638801797509",
+    "created_at": "2026-08-15T10:43:04.000Z",
+    "display_text_range": [
+      24,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088577206859805126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        },
+        {
+          "end": 23,
+          "id": "853937729201086464",
+          "start": 14,
+          "username": "Astrioia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088577206859805126",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088272748858785903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle @Astrioia 好像不是已经和解了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2088261638801797509",
+        "created_at": "2026-08-15T10:43:04.000Z",
+        "display_text_range": [
+          24,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088577206859805126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            },
+            {
+              "end": 23,
+              "id": "853937729201086464",
+              "start": 14,
+              "username": "Astrioia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088577206859805126",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088272748858785903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle @Astrioia 好像不是已经和解了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "2088261638801797509",
+        "created_at": "2026-08-14T14:33:16.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088272748858785903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "853937729201086464",
+              "start": 0,
+              "username": "Astrioia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088272748858785903",
+        "in_reply_to_user_id": "853937729201086464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1470,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088261638801797509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astrioia 感觉就和黑社会犯罪团伙一样可怕\n\n一定不要轻易放过同伙…别接受和解"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088577206859805126",
+        "name": "缄",
+        "pinned_tweet_id": "2083531683488248135",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554387909587136512/1777205712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 268,
+          "like_count": 1141,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "和男朋友一起六年啦！\n頭像是自拍 / 身分證性別女\n封鎖必回\n大笨笨走四方 (*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "is_identity_verified": true,
+        "location": "🐈🥖Pain chat🥯🙀",
+        "most_recent_tweet_id": "2088573692028862856",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705777407794352129/1773447136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077249341929164800/EBapClID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34051,
+          "following_count": 424,
+          "like_count": 236708,
+          "listed_count": 109,
+          "media_count": 9350,
+          "tweet_count": 60686
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-17T11:46:34.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weblogue",
+                "end": 23,
+                "expanded_url": "http://t.me/weblogue",
+                "start": 0,
+                "url": "https://t.co/3VrLMhAbFo"
+              }
+            ]
+          }
+        },
+        "id": "853937729201086464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088483692020953162",
+        "name": "Wireless Lover",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/853937729201086464/1632042627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948856216882741248/3ixfj3g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 1395,
+          "like_count": 2915,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 293
+        },
+        "url": "https://t.co/3VrLMhAbFo",
+        "username": "Astrioia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094077271447568384"
+      ]
+    },
+    "author_id": "1554387909587136512",
+    "conversation_id": "2094077287075664243",
+    "created_at": "2026-08-30T14:58:25.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T15:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094077287075664243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xwbDpHd7Rd",
+          "end": 33,
+          "expanded_url": "https://x.com/Gag_Order_/status/2094077287075664243/photo/1",
+          "media_key": "3_2094077271447568384",
+          "start": 10,
+          "url": "https://t.co/xwbDpHd7Rd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094077287075664243",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094077271447568384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢尼！\n一定少吃 https://t.co/xwbDpHd7Rd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094077271447568384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-oLvjaAAASP0n.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094077271447568384"
+          ]
+        },
+        "author_id": "1554387909587136512",
+        "conversation_id": "2094077287075664243",
+        "created_at": "2026-08-30T14:58:25.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094077287075664243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwbDpHd7Rd",
+              "end": 33,
+              "expanded_url": "https://x.com/Gag_Order_/status/2094077287075664243/photo/1",
+              "media_key": "3_2094077271447568384",
+              "start": 10,
+              "url": "https://t.co/xwbDpHd7Rd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094077287075664243",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094077271447568384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢尼！\n一定少吃 https://t.co/xwbDpHd7Rd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂\n累计吃过300片金刚烷胺的脑弱人",
+        "id": "1554387909587136512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094077287075664243",
+        "name": "缄",
+        "pinned_tweet_id": "2088887131963892136",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554387909587136512/1777205712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 291,
+          "like_count": 1395,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 717
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
